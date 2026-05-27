@@ -1,4 +1,3 @@
-# grafika-komputerowa
 # 🎨 Grafika – Discord Embed
 
 ## 🧩 Projekt
