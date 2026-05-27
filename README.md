@@ -4,19 +4,19 @@
 
 ### 🖼️ Grafika 1
 Projekt grafiki wykonany do embedu Discord.  
-https://i.imgur.com/5QZsykb.png
+![grafika 1](https://i.imgur.com/5QZsykb.png)
 
 ---
 
 ### 🖼️ Grafika 2
 Projekt grafiki wykonany do embedu Discord.  
-https://i.imgur.com/bkt5dOa.png
+![grafika 2](https://i.imgur.com/bkt5dOa.png)
 
 ---
 
 ### 🖼️ Grafika 3
 Projekt grafiki wykonany do embedu Discord.  
-https://i.imgur.com/a46LMXa.png
+![grafika 3](https://i.imgur.com/a46LMXa.png)
 
 ---
 
