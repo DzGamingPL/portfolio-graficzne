@@ -1,13 +1,26 @@
-# 🎨 Grafika – Discord Embed
+# 🎨 Grafiki – Discord Embed
 
-## 🧩 Projekt
-Grafika wykonana na potrzeby embedu Discord.
+## 🧩 Projekty
 
-## 🛠️ Narzędzia
-- Canva / Photoshop / Figma (wybierz co użyłeś)
+### 🖼️ Grafika 1
+Projekt grafiki wykonany do embedu Discord.  
+https://i.imgur.com/5QZsykb.png
 
-## 🖼️ Podgląd
-![grafika](LINK_DO_OBRAZKA)
+---
 
-## 📎 Link
-🔗 https://imgur.com/...
+### 🖼️ Grafika 2
+Projekt grafiki wykonany do embedu Discord.  
+https://i.imgur.com/bkt5dOa.png
+
+---
+
+### 🖼️ Grafika 3
+Projekt grafiki wykonany do embedu Discord.  
+https://i.imgur.com/a46LMXa.png
+
+---
+
+## 🔗 Linki
+- Grafika 1: https://imgur.com/5QZsykb
+- Grafika 2: https://imgur.com/bkt5dOa
+- Grafika 3: https://imgur.com/a46LMXa
